@@ -6,7 +6,7 @@
 
 ### Instructions: 
 - Use 'make run' command to start server
-- ccess from localhost:<PORTNUM>/file.html
-- test with ./tests.sh localhost:<PORTNUM>
+- Access from localhost:<PORTNUM>/file.html
+- Test with ./tests.sh localhost:<PORTNUM>
  
  
